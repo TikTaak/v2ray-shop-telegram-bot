@@ -1,0 +1,9 @@
+env/
+*__pycache__
+
+server/data/*
+
+server/.env
+
+bot/.env
+.vscode

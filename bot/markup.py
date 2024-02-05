@@ -1,0 +1,5 @@
+  
+class StaticMarkups():
+    pass
+        
+        
